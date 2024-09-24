@@ -44,6 +44,11 @@ The data preprocessing follows [OGM-GE](https://github.com/GeWu-Lab/OGM-GE_CVPR2
 pip install -r requirements.txt
 ```
 
+### Prepare dataset
+1. Get the prepeocessed data of the KS dataset to "YOU_PATH". In our case, video data are HDF5 files and audio data are PKL files.
+2. set HDF5_DIR = "YOU_PATH_VIDEO", PKL_DIR = "YOU_PATH_AUDIO" in dataset/KS.py 
+
+
 ### Training
 
 ```shell
