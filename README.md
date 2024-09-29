@@ -1,7 +1,7 @@
 # Code of On-the-fly Modulation for Balanced Multimodal Learning
 The repo for "On-the-fly Modulation for Balanced Multimodal Learning", T-PAMI 2024
 
-Here is the official PyTorch implementation of ''*On-the-fly Modulation for Balanced Multimodal Learning*'', which analyze and alleviate the imbalanced multimodal learning problem from both the feed-forward and the back-propagation stages during optimization Please refer to our [T-PAMI 2024 paper](#) for more details. This journal paper is extension of our previous CVPR 2022 paper [\[Balanced Multimodal Learning via On-the-fly Gradient Modulation\]](https://arxiv.org/abs/2203.15332).
+Here is the official PyTorch implementation of ''*On-the-fly Modulation for Balanced Multimodal Learning*'', which analyze and alleviate the imbalanced multimodal learning problem from both the feed-forward and the back-propagation stages during optimization Please refer to our [T-PAMI 2024 paper](https://ieeexplore.ieee.org/abstract/document/10694738) for more details. This journal paper is extension of our previous CVPR 2022 paper [\[Balanced Multimodal Learning via On-the-fly Gradient Modulation\]](https://arxiv.org/abs/2203.15332).
 
 **Paper Title: "On-the-fly Modulation for Balanced Multimodal Learning"**
 
